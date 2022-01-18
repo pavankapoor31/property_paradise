@@ -50,7 +50,7 @@ require 'logged.php';
 
             <div class="box1 box">
                 <div class="image">
-                    <img src="img/noel.png" alt="no img" class="box-img box1-img">
+                    <img src="https://raw.githubusercontent.com/pavankapoor31/property_paradise/main/img/noel.png" alt="no img" class="box-img box1-img">
                     <div class="image_overlay">
                         <div class="image_title">Noel George Thomas</div>
                         <div class="image_description">(1OX19IS067)</div>
@@ -59,7 +59,7 @@ require 'logged.php';
             </div>
             <div class="box1 box">
                 <div class="image">
-                    <img src="img/SYEDA.jpg" alt="no img" class="box-img box1-img">
+                    <img src="https://raw.githubusercontent.com/pavankapoor31/property_paradise/main/img/SYEDA.jpg" alt="no img" class="box-img box1-img">
                     <div class="image_overlay">
                         <div class="image_title">Syeda Noor Zaineb</div>
                         <div class="image_description">(1OX19IS104)</div>
@@ -68,7 +68,7 @@ require 'logged.php';
             </div>
             <div class="box1 box">
                 <div class="image">
-                    <img src="img/PAVAN.jpg" alt="no img" class="box-img box1-img">
+                    <img src="https://raw.githubusercontent.com/pavankapoor31/property_paradise/main/img/PAVAN.jpg" alt="PAVAN KAPOOR" class="box-img box1-img">
                     <div class="image_overlay">
                         <div class="image_title">Pavan Kapoor</div>
                         <div class="image_description">(1OX19IS070)</div>
@@ -77,7 +77,7 @@ require 'logged.php';
             </div>
             <div class="box1 box">
                 <div class="image">
-                    <img src="img/RISHABH.jpeg" alt="no img" class="box-img box1-img">
+                    <img src="img/RISHABH.jpeg" alt="RISHABH SAHU" class="box-img box1-img">
                     <div class="image_overlay">
                         <div class="image_title">Rishabh Sahu</div>
                         <div class="image_description">(1OX19IS080)</div>

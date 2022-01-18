@@ -55,29 +55,29 @@
                 </div>
                 <div class="carousel-inner">
                     <div class="carousel-item active">
-                        <img src="banner_1_600_120.png" class="d-block w-100" alt="...">
+                        <img src="https://raw.githubusercontent.com/pavankapoor31/property_paradise/main/banner_1_600_120.png" class="d-block w-100" alt="...">
                         <div class="carousel-caption d-none d-md-block ">
                             <h2>Welcome to Property paradise</h2>
                             <p>Making property dreams come true!</p>
-                            <a href=" " target=" _blank "> <button class=" btn btn-dark btn-sm ">
+                            <a href="https://github.com/pavankapoor31/property_paradise" target=" _blank "> <button class=" btn btn-dark btn-sm ">
                                     Github </button></a>
 
                         </div>
                     </div>
                     <div class=" carousel-item ">
-                        <img src="banner_2_600_120.png" class=" d-block w-100 " alt=" ... ">
+                        <img src="https://raw.githubusercontent.com/pavankapoor31/property_paradise/main/banner_2_600_120.jpg" class=" d-block w-100 " alt=" ... ">
                         <div class=" carousel-caption d-none d-md-block ">
                             <h2>Welcome to Property paradise</h2>
                             <p>For the home you always wanted</p>
-                            <a href=" " target=" _blank "> <button class=" btn btn-dark btn-sm "> Github </button></a>
+                            <a href="https://github.com/pavankapoor31/property_paradise" target=" _blank "> <button class=" btn btn-dark btn-sm "> Github </button></a>
                         </div>
                     </div>
                     <div class=" carousel-item ">
-                        <img src="banner_3_600_120.png" class=" d-block w-100 " alt=" ... ">
+                        <img src="https://raw.githubusercontent.com/pavankapoor31/property_paradise/main/banner_3_600_120.png" class=" d-block w-100 " alt=" ... ">
                         <div class=" carousel-caption d-none d-md-block ">
                             <h2>Welcome to Property paradise</h2>
                             <p>Making property dreams come true!</p>
-                            <a href=" " target=" _blank "> <button class=" btn btn-dark btn-sm "> Github </button></a>
+                            <a href="https://github.com/pavankapoor31/property_paradise" target=" _blank "> <button class=" btn btn-dark btn-sm "> Github </button></a>
                         </div>
                     </div>
                 </div>
@@ -125,20 +125,19 @@
                 <p class="para-content">Property Paradise is an end to end property management company providing comprehensive services non-residents Indians in Ahmedabad, Bengaluru, Chennai, Delhi NCR, Hyderabad, Kolkata, Mumbai and Pune. We provide you with a convenient and easy-to-use database management system where you can store details about the properties that you wish to buy, sell or rent. It organizes the data and provides the end users more access and control over the information. It is a more simple, efficient and detailed way to store data compared to the traditional method of maintaining records and paper-work. </p>
             </div>
             <div class="img-top">
-                <img src="img/home.png" alt="" class="imp-top-img">
+                <img src="https://raw.githubusercontent.com/pavankapoor31/property_paradise/main/img/home.png" alt="" class="imp-top-img">
             </div>
         </div>
     </div>
     <!-- Bottom  -->
-
-    <div class="bottom-half">
+<div class="bottom-half">
         <p class="bottom-head">Developers</p>
 
         <div class="bottom">
 
             <div class="box1 box">
                 <div class="image">
-                    <img src="img/noel.png" alt="no img" class="box-img box1-img">
+                    <img src="https://raw.githubusercontent.com/pavankapoor31/property_paradise/main/img/noel.png" alt="no img" class="box-img box1-img">
                     <div class="image_overlay">
                         <div class="image_title">Noel George Thomas</div>
                         <div class="image_description">(1OX19IS067)</div>
@@ -147,7 +146,7 @@
             </div>
             <div class="box1 box">
                 <div class="image">
-                    <img src="img/SYEDA.jpg" alt="no img" class="box-img box1-img">
+                    <img src="https://raw.githubusercontent.com/pavankapoor31/property_paradise/main/img/SYEDA.jpg" alt="no img" class="box-img box1-img">
                     <div class="image_overlay">
                         <div class="image_title">Syeda Noor Zaineb</div>
                         <div class="image_description">(1OX19IS104)</div>
@@ -156,7 +155,7 @@
             </div>
             <div class="box1 box">
                 <div class="image">
-                    <img src="img/PAVAN.jpg" alt="no img" class="box-img box1-img">
+                    <img src="https://raw.githubusercontent.com/pavankapoor31/property_paradise/main/img/PAVAN.jpg" alt="no img" class="box-img box1-img">
                     <div class="image_overlay">
                         <div class="image_title">Pavan Kapoor</div>
                         <div class="image_description">(1OX19IS070)</div>

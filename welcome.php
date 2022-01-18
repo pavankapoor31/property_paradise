@@ -20,7 +20,8 @@ if (!isset($_SESSION['loggedin']) || $_SESSION['loggedin'] !== true) {
 
 <body>
  <?php include'loggedHeader.php'; ?>
- <div class="container">
+     <!-- corousel -->
+    <div class="container">
         <div class="corousel-container carousel-container">
             <div id="carouselExampleCaptions" class="carousel slide my-5" data-bs-ride="carousel">
                 <div class="carousel-indicators">
@@ -30,35 +31,36 @@ if (!isset($_SESSION['loggedin']) || $_SESSION['loggedin'] !== true) {
                 </div>
                 <div class="carousel-inner">
                     <div class="carousel-item active">
-                        <img src="banner_1_600_120.png" class="d-block w-100" alt="...">
+                        <img src="https://raw.githubusercontent.com/pavankapoor31/property_paradise/main/banner_1_600_120.png" class="d-block w-100" alt="...">
                         <div class="carousel-caption d-none d-md-block ">
                             <h2>Welcome to Property paradise</h2>
                             <p>Making property dreams come true!</p>
-                            <a href=" " target=" _blank "> <button class=" btn btn-dark btn-sm ">
+                            <a href="https://github.com/pavankapoor31/property_paradise" target=" _blank "> <button class=" btn btn-dark btn-sm ">
                                     Github </button></a>
 
                         </div>
                     </div>
                     <div class=" carousel-item ">
-                        <img src="banner_2_600_120.png" class=" d-block w-100 " alt=" ... ">
+                        <img src="https://raw.githubusercontent.com/pavankapoor31/property_paradise/main/banner_2_600_120.jpg" class=" d-block w-100 " alt=" ... ">
                         <div class=" carousel-caption d-none d-md-block ">
                             <h2>Welcome to Property paradise</h2>
                             <p>For the home you always wanted</p>
-                            <a href=" " target=" _blank "> <button class=" btn btn-dark btn-sm "> Github </button></a>
+                            <a href="https://github.com/pavankapoor31/property_paradise" target=" _blank "> <button class=" btn btn-dark btn-sm "> Github </button></a>
                         </div>
                     </div>
                     <div class=" carousel-item ">
-                        <img src="banner_3_600_120.png" class=" d-block w-100 " alt=" ... ">
+                        <img src="https://raw.githubusercontent.com/pavankapoor31/property_paradise/main/banner_3_600_120.png" class=" d-block w-100 " alt=" ... ">
                         <div class=" carousel-caption d-none d-md-block ">
                             <h2>Welcome to Property paradise</h2>
                             <p>Making property dreams come true!</p>
-                            <a href=" " target=" _blank "> <button class=" btn btn-dark btn-sm "> Github </button></a>
+                            <a href="https://github.com/pavankapoor31/property_paradise" target=" _blank "> <button class=" btn btn-dark btn-sm "> Github </button></a>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
     </div>
+
     <div class=" container ">
         <div class=" row ">
             <div class=" col-sm-6 ">
