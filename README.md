@@ -7,4 +7,5 @@ It comprises customizable pages to list your vacant properties and invite applic
 ## Tech stack used
 It uses **HTML**,**CSS**,**JS** and **MYSQL** 
 
-The live site can be viewed here [title](www.paradise.infinityfreeapp.com/real/)
+##   
+The live site can be viewed here [Property Paradise](www.paradise.infinityfreeapp.com/real/)
